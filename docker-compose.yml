@@ -2,5 +2,5 @@ version: '3.5'
 
 services:
 
-  etcdlock:
+  dsutils:
     build: .
